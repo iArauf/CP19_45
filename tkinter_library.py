@@ -1,0 +1,10 @@
+from tkinter import*
+t = Tk()
+lb = Listbox(t)
+lb.insert(1,'syed salman ali')
+lb.insert(2,'abdul rauf')
+lb.insert(3,'arqum')
+lb.insert(4,'haider')
+lb.insert(5,'fayyash')
+lb.pack()
+t.mainloop()
