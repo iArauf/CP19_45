@@ -1,0 +1,5 @@
+1. Abdul Rauf (To make logics and conditions and design algorithm. To test tasks completed by all the group members and resolve errors if found any.) 
+2. Syed Salman Ali. (Socket Programming using socket library. To run game over network between two PCs. This member will explore and study about socket library).
+3. Syed Haider Imam Jafri. (To make GUI of game compenents like start screen, Main menu, playing screen, score counter, end screen etc).
+4. Fayyash Bhatti. (to make Multiplayer game. To differentiate between player 1 and player 2. to make separate stricker,ball and score counter for both and at the end declared winner between two players).
+5. Syed Arqum Sultan. (To make GUI of game compenents like start screen, Main menu, playing screen, score counter, end screen etc)
